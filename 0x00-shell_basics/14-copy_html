@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 #!/bin/bash
 cp -un *.html ../
+=======
+ln -s /bin/ls _ls_
+cp -u *.html ..
+>>>>>>> first commit

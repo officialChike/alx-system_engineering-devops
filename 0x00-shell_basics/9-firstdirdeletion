@@ -1,2 +1,6 @@
 #!/bin/bash
+<<<<<<< HEAD
 rm -r /tmp/my_first_directory
+=======
+rm -rf/tmp/my_first_directory
+>>>>>>> first commit
